@@ -1,2 +1,3 @@
 # sharify
-Sharify é um sistema feito em Python para automatizar testes unitários em códidos escritos em C, Ele possui interface gráfica, permitindo a execução dos testes, a leitura dos resultados obtidos desses testes e ainda é possível desenvolver o código em C num editor próprio.
+![Alt text](https://raw.githubusercontent.com/pedrocsf/sharify/blob/main/logo.png))
+Sharify é uma aplicação feita em Python para automatizar testes unitários em códidos escritos em C. Equipado com uma interface gráfica intuitiva, permite a execução e análise dos resultados desses testes de forma eficiente. Além disso, oferece a comodidade de um editor integrado para desenvolvimento do código em C.
