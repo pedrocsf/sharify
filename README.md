@@ -1,4 +1,5 @@
-# sharify
+# Sharify - Avaliador de códigos em C
+
 ![Alt text](https://raw.githubusercontent.com/pedrocsf/sharify/main/logo.png)
 
 
